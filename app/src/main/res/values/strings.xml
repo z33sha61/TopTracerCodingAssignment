@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="password_error">The password you provided does not match our records.</string>
+    <string name="username_error">It looks like you forgot to provide a username</string>
+</resources>
